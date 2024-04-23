@@ -1,4 +1,4 @@
-Calculator build using Jetpack compose and kotlin.
+## Calculator built using Jetpack compose and kotlin.
 
 ## Try it out
 Install the [apk](https://github.com/Harshnatuskar/calc-app/blob/main/Calc.apk) on your Andrid phone.
